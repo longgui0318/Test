@@ -3,8 +3,8 @@
   "files": [
     {
       "id": "sample.activity",
-      "md5": "XXXX",
-      "url": "xxxxx"
+      "md5": "B390F1F6343EED4E01CF97A2484D6351",
+      "url": "https://raw.github.com/longgui0318/Test/Test/sample.activity.apk"
     }
   ],
   "fragments": [
