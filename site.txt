@@ -11,7 +11,7 @@
     {
       "host": "activitydemo",
       "name": "sample.helloworld.HelloActivity",
-      "code": "sample.helloworld.20131119.1",
+      "code": "sample.activity",
       "isActivity": "true"
     }
   ],
