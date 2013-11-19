@@ -1,0 +1,18 @@
+{
+  "id": "sample.activity",
+  "files": [
+    {
+      "id": "sample.activity",
+      "md5": "XXXX",
+      "url": "xxxxx"
+    }
+  ],
+  "fragments": [
+    {
+      "host": "activitydemo",
+      "name": "sample.helloworld.HelloActivity",
+      "code": "sample.helloworld.20131119.1"
+    }
+  ],
+  "version": "20131119.1"
+}
