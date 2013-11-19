@@ -3,7 +3,7 @@
   "files": [
     {
       "id": "sample.activity",
-      "md5": "7FA6A3E0E8A89B066757840EC564B119",
+      "md5": "7fa6a3e0e8a89b066757840ec564b119",
       "url": "https://raw.github.com/longgui0318/Test/Test/sample.activity.apk"
     }
   ],
